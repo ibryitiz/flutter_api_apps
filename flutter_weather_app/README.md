@@ -1,16 +1,14 @@
 # flutter_weather_app
 
-A new Flutter project.
+Flutter kullanılarak geliştirilmiş kullanıcı dostu bir hava durumu görüntüleyici uygulamasıdır. Bu uygulama, çeşitli hava durumu API'lerinden gerçek zamanlı hava durumu verilerini alarak kullanıcılara sunar ve sezgisel arayüzüyle kullanımı kolaydır.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- Gerçek zamanlı hava durumu verilerini alarak kullanıcıya sunma
+- Hava durumu bilgilerini görsel olarak sunma için Lottie animasyonlarının kullanılması
+- Kullanıcı konumunu almak için geolocator ve geocoding kütüphanelerinin kullanılması
+- State management için provider kütüphanesinin kullanılması
+- http,geolocator,geocoding,lottie,provider
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/ibryitiz/flutter_api_apps/assets/156498407/5d43a199-ada1-48d0-96ea-f9982785d431
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
